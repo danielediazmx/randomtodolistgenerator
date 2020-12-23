@@ -1,0 +1,875 @@
+1608704892159	geckodriver	INFO	Listening on 127.0.0.1:55701
+1608704893176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileK2Kup7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608704898370	Marionette	INFO	Listening on port 55716
+1608704898464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608704935469	geckodriver	INFO	Listening on 127.0.0.1:55984
+1608704936484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile4TtAea"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608704940055	Marionette	INFO	Stopped listening on port 55716
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608704941174	Marionette	INFO	Listening on port 55999
+1608704941270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608705016622	geckodriver	INFO	Listening on 127.0.0.1:56430
+1608705016651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileiekhPs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608705020994	Marionette	INFO	Listening on port 56441
+1608705021091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608705022716	Marionette	INFO	Stopped listening on port 56441
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1608705042653	Marionette	INFO	Stopped listening on port 55999
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608705044424	geckodriver	INFO	Listening on 127.0.0.1:56660
+1608705044441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileOyZDgV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608705048639	Marionette	INFO	Listening on port 56669
+1608705048759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608705050430	Marionette	INFO	Stopped listening on port 56669
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608705139156	geckodriver	INFO	Listening on 127.0.0.1:57148
+1608705139170	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileVhAteN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608705143474	Marionette	INFO	Listening on port 57157
+1608705143559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608705145268	Marionette	INFO	Stopped listening on port 57157
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608707170241	geckodriver	INFO	Listening on 127.0.0.1:49362
+1608707171258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilebS1czR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608707176342	Marionette	INFO	Listening on port 49377
+1608707176461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608707178173	Marionette	INFO	Stopped listening on port 49377
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608707417116	geckodriver	INFO	Listening on 127.0.0.1:50063
+1608707418135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileiWU1oY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608707422061	Marionette	INFO	Listening on port 50078
+1608707422147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608707423570	Marionette	INFO	Stopped listening on port 50078
+1608707424129	geckodriver	INFO	Listening on 127.0.0.1:50182
+1608707425145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileMTSWzx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608707428644	Marionette	INFO	Listening on port 50197
+1608707428768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608707430632	Marionette	INFO	Stopped listening on port 50197
+1608707449547	geckodriver	INFO	Listening on 127.0.0.1:50374
+1608707449569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileHznQkc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608707452995	Marionette	INFO	Listening on port 50383
+1608707453106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608707454549	Marionette	INFO	Stopped listening on port 50383
+1608707455209	geckodriver	INFO	Listening on 127.0.0.1:50480
+1608707456228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilexC2tdv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608707459579	Marionette	INFO	Listening on port 50495
+1608707459645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608707461439	Marionette	INFO	Stopped listening on port 50495
+1608710634630	geckodriver	INFO	Listening on 127.0.0.1:52464
+1608710635652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileJEFTYc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608710639487	Marionette	INFO	Listening on port 52483
+1608710639547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608710641008	Marionette	INFO	Stopped listening on port 52483
+1608710641575	geckodriver	INFO	Listening on 127.0.0.1:52585
+1608710642587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilerZb8Fx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608710646691	Marionette	INFO	Listening on port 52600
+1608710646846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608710648705	Marionette	INFO	Stopped listening on port 52600
+1608711036359	geckodriver	INFO	Listening on 127.0.0.1:54773
+1608711037381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilezThwn1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711041065	Marionette	INFO	Listening on port 54788
+1608711041102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711042738	Marionette	INFO	Stopped listening on port 54788
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608711043303	geckodriver	INFO	Listening on 127.0.0.1:54890
+1608711044313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileQ3duUY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711047862	Marionette	INFO	Listening on port 54905
+1608711047923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711049581	Marionette	INFO	Stopped listening on port 54905
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1608711094144	geckodriver	INFO	Listening on 127.0.0.1:55178
+1608711094167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilepDRT7h"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711097625	Marionette	INFO	Listening on port 55187
+1608711097658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711099111	Marionette	INFO	Stopped listening on port 55187
+1608711099642	geckodriver	INFO	Listening on 127.0.0.1:55287
+1608711100659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofiley9z09D"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711103916	Marionette	INFO	Listening on port 55302
+1608711103945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711105464	Marionette	INFO	Stopped listening on port 55302
+1608711140011	geckodriver	INFO	Listening on 127.0.0.1:55531
+1608711140026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile7dM0S7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711144336	Marionette	INFO	Listening on port 55540
+1608711144376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711146157	Marionette	INFO	Stopped listening on port 55540
+1608711350691	geckodriver	INFO	Listening on 127.0.0.1:56456
+1608711351704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileyyeK1j"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711356024	Marionette	INFO	Listening on port 56471
+1608711356105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711358081	Marionette	INFO	Stopped listening on port 56471
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608711771831	geckodriver	INFO	Listening on 127.0.0.1:58305
+1608711772847	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileDTuFf3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711776733	Marionette	INFO	Listening on port 58320
+1608711776862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711778527	Marionette	INFO	Stopped listening on port 58320
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1608711811219	geckodriver	INFO	Listening on 127.0.0.1:58571
+1608711811236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileXmXaeE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711814424	Marionette	INFO	Listening on port 58580
+1608711814537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711816399	Marionette	INFO	Stopped listening on port 58580
+1608711967601	geckodriver	INFO	Listening on 127.0.0.1:59320
+1608711967617	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileuUQ5vm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608711971261	Marionette	INFO	Listening on port 59329
+1608711971309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608711973036	Marionette	INFO	Stopped listening on port 59329
+1608712005884	geckodriver	INFO	Listening on 127.0.0.1:59564
+1608712005904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileDo49se"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712009044	Marionette	INFO	Listening on port 59573
+1608712009100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712010712	Marionette	INFO	Stopped listening on port 59573
+1608712155614	geckodriver	INFO	Listening on 127.0.0.1:60262
+1608712155626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileOBUk6Z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712159214	Marionette	INFO	Listening on port 60271
+1608712159296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712161111	Marionette	INFO	Stopped listening on port 60271
+1608712174756	geckodriver	INFO	Listening on 127.0.0.1:60426
+1608712174768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileHwtaJ1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712178190	Marionette	INFO	Listening on port 60435
+1608712178267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712180010	Marionette	INFO	Stopped listening on port 60435
+1608712249276	geckodriver	INFO	Listening on 127.0.0.1:60839
+1608712249295	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileXupzGX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712252769	Marionette	INFO	Listening on port 60848
+1608712252816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712254603	Marionette	INFO	Stopped listening on port 60848
+1608712380335	geckodriver	INFO	Listening on 127.0.0.1:61465
+1608712380351	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileDRmWed"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712383806	Marionette	INFO	Listening on port 61474
+1608712383853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712386075	Marionette	INFO	Stopped listening on port 61474
+1608712412760	geckodriver	INFO	Listening on 127.0.0.1:61684
+1608712412779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilec1RPdv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712416780	Marionette	INFO	Listening on port 61693
+1608712416833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712418568	Marionette	INFO	Stopped listening on port 61693
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1608712424513	geckodriver	INFO	Listening on 127.0.0.1:61827
+1608712424537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile5djFQl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712428232	Marionette	INFO	Listening on port 61836
+1608712428272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712527429	geckodriver	INFO	Listening on 127.0.0.1:62356
+1608712527442	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofiledS3zeM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712531799	Marionette	INFO	Listening on port 62365
+1608712531882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712533930	Marionette	INFO	Stopped listening on port 61836
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608712535114	Marionette	INFO	Stopped listening on port 62365
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608712552497	geckodriver	INFO	Listening on 127.0.0.1:62555
+1608712552517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileIm8gXx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712557190	Marionette	INFO	Listening on port 62564
+1608712557338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712559851	Marionette	INFO	Stopped listening on port 62564
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608712570200	geckodriver	INFO	Listening on 127.0.0.1:62742
+1608712570217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilewMVJnb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712573935	Marionette	INFO	Listening on port 62751
+1608712574011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712576237	Marionette	INFO	Stopped listening on port 62751
+1608712626752	geckodriver	INFO	Listening on 127.0.0.1:63073
+1608712626774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile8HqOO5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712630042	Marionette	INFO	Listening on port 63082
+1608712630158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712631925	Marionette	INFO	Stopped listening on port 63082
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1608712640838	geckodriver	INFO	Listening on 127.0.0.1:63217
+1608712640854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileTPHdlR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712644007	Marionette	INFO	Listening on port 63226
+1608712644032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712645782	Marionette	INFO	Stopped listening on port 63226
+1608712760478	geckodriver	INFO	Listening on 127.0.0.1:63799
+1608712760492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileeX0B8r"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608712764046	Marionette	INFO	Listening on port 63808
+1608712764091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608712765987	Marionette	INFO	Stopped listening on port 63808
+1608713523055	geckodriver	INFO	Listening on 127.0.0.1:64403
+1608713524071	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileGMED0p"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713533212	Marionette	INFO	Listening on port 64414
+1608713533383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608713533504	geckodriver	INFO	Listening on 127.0.0.1:64523
+1608713534527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileCSELjF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713546183	Marionette	INFO	Listening on port 64546
+1608713546313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608713546392	geckodriver	INFO	Listening on 127.0.0.1:64683
+1608713547402	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileyMhpmb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713557728	Marionette	INFO	Listening on port 64705
+1608713558035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608713558118	geckodriver	INFO	Listening on 127.0.0.1:64831
+1608713559134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile1D5Aos"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713575367	Marionette	INFO	Listening on port 64852
+1608713575764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608713576001	geckodriver	INFO	Listening on 127.0.0.1:65042
+1608713577021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileeMJ7MC"
+*** You are running in headless mode.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1608713707256	geckodriver	INFO	Listening on 127.0.0.1:65143
+1608713707273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilexOladU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713714524	Marionette	INFO	Listening on port 65152
+1608713714640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1608713761691	geckodriver	INFO	Listening on 127.0.0.1:65345
+1608713761769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileoQvLqL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713768955	Marionette	INFO	Listening on port 65354
+1608713769089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: Error: Loading CSS chunk 66 failed.
+(https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-41aee9f8477427d83474.css)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: Error: Loading CSS chunk 121 failed.
+(https://static.twitchcdn.net/assets/features.whispers-c1cf953e0da7d29e878c.css)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: Error: Loading CSS chunk 62 failed.
+(https://static.twitchcdn.net/assets/features.channel-leaderboard-f201cdf2a9ab94c2817b.css)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/vanesitamichi, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608713837180	geckodriver	INFO	Listening on 127.0.0.1:49229
+1608713837232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilerkByGq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713843283	Marionette	INFO	Listening on port 49238
+1608713843372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1608713892273	geckodriver	INFO	Listening on 127.0.0.1:49436
+1608713892292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile8q7tEN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713897449	Marionette	INFO	Listening on port 49445
+1608713897492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: Error: Loading CSS chunk 66 failed.
+(https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-41aee9f8477427d83474.css)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: Error: Loading CSS chunk 65 failed.
+(https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-3248e2e65b1a949f9126.css)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: Error: Loading CSS chunk 59 failed.
+(https://static.twitchcdn.net/assets/features.bits-f54c04a1f6c8885cfaa8.css)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: Error: Loading CSS chunk 96 failed.
+(https://static.twitchcdn.net/assets/features.emote-picker-c444d74e8836dbd16a10.css)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: Error: Loading CSS chunk 121 failed.
+(https://static.twitchcdn.net/assets/features.whispers-c1cf953e0da7d29e878c.css)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: Error: Loading CSS chunk 62 failed.
+(https://static.twitchcdn.net/assets/features.channel-leaderboard-f201cdf2a9ab94c2817b.css)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608713993076	geckodriver	INFO	Listening on 127.0.0.1:49761
+1608713993091	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileUDs5wX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608713997659	Marionette	INFO	Listening on port 49770
+1608713997784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 10 failed.
+(error: https://static.twitchcdn.net/assets/branch-sdk-8a83701479c12a4a9879.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 59 failed.
+(error: https://static.twitchcdn.net/assets/features.bits-36366b5d98568fd6bc73.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-settings.components.chat-settings.component-0b1683bfc63df67f7e35.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 65 failed.
+(error: https://static.twitchcdn.net/assets/features.chat-private-callouts.components.chat-private-callout-queue-13021a642698ed8cb170.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 96 failed.
+(error: https://static.twitchcdn.net/assets/features.emote-picker-cca920ae5a3037d476f3.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 86 failed.
+(error: https://static.twitchcdn.net/assets/features.community-points.components.reward-center-4fd927921389e9e9650f.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 121 failed.
+(error: https://static.twitchcdn.net/assets/features.whispers-1cfaa5f524b0dfc06d72.js)
+JavaScript error: https://www.twitch.tv/kuiim, line 1: ChunkLoadError: Loading chunk 62 failed.
+(error: https://static.twitchcdn.net/assets/features.channel-leaderboard-8a1d5ffe97ccb3256219.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1608714131726	geckodriver	INFO	Listening on 127.0.0.1:50098
+1608714131753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileiPnBW4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608714138292	Marionette	INFO	Listening on port 50107
+1608714138411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1608720300101	geckodriver	INFO	Listening on 127.0.0.1:51628
+1608720301117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileNqZVVw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608720305702	Marionette	INFO	Listening on port 51639
+1608720305756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608720307703	Marionette	INFO	Stopped listening on port 51639
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608720321071	geckodriver	INFO	Listening on 127.0.0.1:51731
+1608720321092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilen2FFDq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608720324339	Marionette	INFO	Listening on port 51740
+1608720324379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608720326068	Marionette	INFO	Stopped listening on port 51740
+1608722079249	geckodriver	INFO	Listening on 127.0.0.1:56313
+1608722080261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilenuB3tY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722085997	Marionette	INFO	Listening on port 56328
+1608722086177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722088016	Marionette	INFO	Stopped listening on port 56328
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608722529333	geckodriver	INFO	Listening on 127.0.0.1:58323
+1608722530345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile1FHMIn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722534229	Marionette	INFO	Listening on port 58338
+1608722534304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722536385	Marionette	INFO	Stopped listening on port 58338
+1608722580238	geckodriver	INFO	Listening on 127.0.0.1:58616
+1608722580255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileaCioZg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722583997	Marionette	INFO	Listening on port 58625
+1608722584067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722585855	Marionette	INFO	Stopped listening on port 58625
+1608722612664	geckodriver	INFO	Listening on 127.0.0.1:58838
+1608722612678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileCTzMor"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722617254	Marionette	INFO	Listening on port 58847
+1608722617312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722620056	Marionette	INFO	Stopped listening on port 58847
+1608722625355	geckodriver	INFO	Listening on 127.0.0.1:58984
+1608722625376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile6ffdw1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722628845	Marionette	INFO	Listening on port 58993
+1608722628878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722630766	Marionette	INFO	Stopped listening on port 58993
+1608722677954	geckodriver	INFO	Listening on 127.0.0.1:59282
+1608722677971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile6N2nNL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722681872	Marionette	INFO	Listening on port 59291
+1608722681920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722683821	Marionette	INFO	Stopped listening on port 59291
+1608722757026	geckodriver	INFO	Listening on 127.0.0.1:59698
+1608722757041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile6dxvlM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722760520	Marionette	INFO	Listening on port 59707
+1608722760553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722762420	Marionette	INFO	Stopped listening on port 59707
+1608722906760	geckodriver	INFO	Listening on 127.0.0.1:60428
+1608722906775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileaFhhs8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722910357	Marionette	INFO	Listening on port 60437
+1608722910464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722912468	Marionette	INFO	Stopped listening on port 60437
+1608722930731	geckodriver	INFO	Listening on 127.0.0.1:60613
+1608722930753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofile7TQySt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608722934114	Marionette	INFO	Listening on port 60622
+1608722934158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608722936017	Marionette	INFO	Stopped listening on port 60622
+1608723002700	geckodriver	INFO	Listening on 127.0.0.1:60987
+1608723002716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilesHiV7w"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608723006887	Marionette	INFO	Listening on port 60996
+1608723006939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608723008986	Marionette	INFO	Stopped listening on port 60996
+1608723285472	geckodriver	INFO	Listening on 127.0.0.1:62220
+1608723286489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilerrqvFb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608723289909	Marionette	INFO	Listening on port 62235
+1608723289976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608723295661	Marionette	INFO	Stopped listening on port 62235
+1608723837616	geckodriver	INFO	Listening on 127.0.0.1:64566
+1608723838640	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileX9OQvN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608723845556	Marionette	INFO	Listening on port 64581
+1608723845608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608723851229	Marionette	INFO	Stopped listening on port 64581
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608723872971	geckodriver	INFO	Listening on 127.0.0.1:64843
+1608723873987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofileUXBk3Q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608723878272	Marionette	INFO	Listening on port 64858
+1608723878379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608723883664	Marionette	INFO	Stopped listening on port 64858
+1608723902912	geckodriver	INFO	Listening on 127.0.0.1:64966
+1608723902924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/5m/m3m92r_91g3d0gkj_4n4ngc00000gn/T/rust_mozprofilel3vzpw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608723906226	Marionette	INFO	Listening on port 64975
+1608723906347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608723911509	Marionette	INFO	Stopped listening on port 64975
